@@ -90,12 +90,12 @@ const page = () => {
                         </label>
                       </div>
                     </div>
-                    <a
-                      href="#"
+                    <Link
+                      href="/forgot-password"
                       className="text-sm font-medium text-gray-600 hover:underline"
                     >
                       Forgot password?
-                    </a>
+                    </Link>
                   </div>
 
                   <button

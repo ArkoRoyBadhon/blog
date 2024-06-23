@@ -163,9 +163,9 @@ const Page = () => {
                         className="font-light text-gray-500"
                       >
                         I accept the{" "}
-                        <a className="font-medium hover:underline" href="#">
+                        <Link className="font-medium hover:underline" href="#">
                           Terms and Conditions
-                        </a>
+                        </Link>
                       </label>
                     </div>
                   </div>
